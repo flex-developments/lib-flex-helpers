@@ -2,3 +2,5 @@
 /lib/nblibraries.properties
 /lib/CopyLibs/
 /build.xml
+/build/
+/dist/
