@@ -16,8 +16,8 @@
  * ---
  * Modificación apoyada por la Superintendencia de Servicios de Certificación 
  * Electrónica (SUSCERTE) durante 2010-2014 por:
- * Ing. Felix D. Lopez M. - flex.developments@gmail.com | flopez@suscerte.gob.ve
- * Ing. Yessica De Ascencao - yessicadeascencao@gmail.com | ydeascencao@suscerte.gob.ve
+ * Ing. Felix D. Lopez M. - flex.developments en gmail | flopez en suscerte gob ve
+ * Ing. Yessica De Ascencao - yessicadeascencao@gmail.com | ydeascencao en suscerte gob ve
  * 
  * Original Package: org.apache.commons.validator.routines
  */

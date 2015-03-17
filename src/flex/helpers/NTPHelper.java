@@ -16,8 +16,8 @@
  * ---
  * Modificación apoyada por la Superintendencia de Servicios de Certificación 
  * Electrónica (SUSCERTE) durante 2010-2014 por:
- * Ing. Felix D. Lopez M. - flex.developments@gmail.com | flopez@suscerte.gob.ve
- * Ing. Yessica De Ascencao - yessicadeascencao@gmail.com | ydeascencao@suscerte.gob.ve
+ * Ing. Felix D. Lopez M. - flex.developments en gmail | flopez en suscerte gob ve
+ * Ing. Yessica De Ascencao - yessicadeascencao@gmail.com | ydeascencao en suscerte gob ve
  */
 
 package flex.helpers;
@@ -56,7 +56,7 @@ import org.apache.commons.net.ntp.TimeInfo;
  *
  * @author Jason Mathews, MITRE Corp
  * ----
- * @author Ing. Felix D. Lopez M. - flex.developments@gmail.com
+ * @author Ing. Felix D. Lopez M. - flex.developments en gmail
  * @author Ing. Yessica De Ascencao - yessicadeascencao@gmail.com
  * @version 1.0
  **/
