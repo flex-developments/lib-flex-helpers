@@ -1,11 +1,11 @@
 # lib-flex-helpers
 Librería con recopilación de clases para ejecutar acciones puntuales sobre recursos específicos.
 
-Dependencias:
+## Dependencias
  * commons-net-3.1
  * mail
 
-Copyright (C) 2010
+## Copyright (C) 2010
 Ing. Felix D. Lopez M. - flex.developments@gmail.com
 
 Desarrollo apoyado por la Superintendencia de Servicios de Certificación Electrónica (SUSCERTE) durante 2010-2014 por:
