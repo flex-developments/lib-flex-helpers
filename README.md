@@ -5,15 +5,12 @@ Librería con recopilación de clases para ejecutar acciones puntuales sobre rec
  * commons-net-3.1
  * mail
 
-## Copyright (C) 2010
-Ing. Felix D. Lopez M. - flex.developments en gmail
+## Copyright (C) 2010 Ing. Felix D. Lopez M.
+ * Ing. Felix D. Lopez M. - flex.developments en gmail
 
 Desarrollo apoyado por la Superintendencia de Servicios de Certificación Electrónica (SUSCERTE) durante 2010-2014 por:
-Ing. Felix D. Lopez M. - flex.developments en gmail | flopez en suscerte gob ve
-Ing. Yessica De Ascencao - yessicadeascencao@gmail.com | ydeascencao en suscerte gob ve
-
-Continuidad de mantenimiento por:
-Ing. Felix D. Lopez M. - flex.developments en gmail
+ * Ing. Felix D. Lopez M. - flex.developments en gmail | flopez en suscerte gob ve
+ * Ing. Yessica De Ascencao - yessicadeascencao en gmail | ydeascencao en suscerte gob ve
 
 Este programa es software libre; Usted puede usarlo bajo los terminos de la licencia de software GPL version 2.0 de la Free Software Foundation.
 
