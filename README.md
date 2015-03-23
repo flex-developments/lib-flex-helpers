@@ -2,8 +2,8 @@
 Librería con recopilación de clases para ejecutar acciones comunes.
 
 ## Dependencias
- * commons-net-3.1
- * mail
+ * commons-net-3.3 (http://commons.apache.org/proper/commons-net/download_net.cgi)
+ * javax.mail  (https://java.net/projects/javamail/pages/Home)
 
 ## Copyright (C) 2010 - Ing. Félix D. López M.
  * Ing. Félix D. López M. - flex.developments en gmail
